@@ -2,11 +2,11 @@
 Python code for different syntax and functions
 
 ## [Beginner](https://github.com/Jonathan-McIvor/Python-Learning/tree/beginner)
-* [Print](https://github.com/Jonathan-McIvor/Python-Learning/blob/beginner/lrn-print.py)
-* [Variables](https://github.com/Jonathan-McIvor/Python-Learning/blob/beginner/lrn-variables.py)
-* [Data types](https://github.com/Jonathan-McIvor/Python-Learning/blob/beginner/lrn-data-types.py)
-* [Data type conversions](https://github.com/Jonathan-McIvor/Python-Learning/blob/beginner/lrn-data-type-conversions.py)
-* [Data Structures](https://github.com/Jonathan-McIvor/Python-Learning/blob/beginner/lrn-data-structures.py)
+* [Print](https://github.com/Jonathan-McIvor/Python-Learning/blob/beginner/lrn-print.py) (Print function)
+* [Variables](https://github.com/Jonathan-McIvor/Python-Learning/blob/beginner/lrn-variables.py) (Assingning variables)
+* [Data types](https://github.com/Jonathan-McIvor/Python-Learning/blob/beginner/lrn-data-types.py) (Float, Int, Boolean)
+* [Data type conversions](https://github.com/Jonathan-McIvor/Python-Learning/blob/beginner/lrn-data-type-conversions.py) (Type - Float, Int, String)
+* [Data Structures](https://github.com/Jonathan-McIvor/Python-Learning/blob/beginner/lrn-data-structures.py) (Lists, Strings, Dictionaries, Tuples)
 * [Lists]
 * [Tuples]
 * [Dictionaries]
